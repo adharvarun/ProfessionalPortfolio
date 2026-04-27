@@ -84,6 +84,7 @@ export default function ProjectsSection({ projects }: ProjectsSectionProps) {
               </div>
               <h3 className="mt-4 font-pd text-2xl text-white">{project.title ?? "Untitled"}</h3>
               <p className="mt-2 line-clamp-2 text-sm text-slate-300">{project.description ?? "No summary yet."}</p>
+              <p className="mt-2 line-clamp-2 text-sm text-slate-300">About Project &rarr;</p>
             </button>
           ))}
         </div>

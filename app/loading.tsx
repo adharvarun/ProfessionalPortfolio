@@ -13,7 +13,7 @@ export default function Loading() {
           <span className="absolute inset-0 rounded-full border border-slate-600/65" />
           <span className="absolute inset-[3px] rounded-full border-2 border-transparent border-t-slate-300 border-r-slate-400/80 animate-spin" />
           <div className="grid h-16 w-16 place-items-center rounded-full border border-slate-600/70 bg-slate-900">
-            <span className="font-pd text-lg tracking-wide text-slate-100">AA</span>
+            <span className="font-pd text-lg tracking-wide text-slate-100">AK</span>
           </div>
         </div>
 
